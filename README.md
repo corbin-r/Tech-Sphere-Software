@@ -1,6 +1,6 @@
-Chat Sphere Software
+The Tech Sphere Software
 ==================
-This is the proprietary software Chat Sphere runs.
+This is the proprietary software The Tech Sphere has built and uses.
 
 #####Glossary
 1. Overview of the software

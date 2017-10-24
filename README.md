@@ -2,7 +2,7 @@ The Tech Sphere Software
 ==================
 This is the proprietary software The Tech Sphere has built and uses.
 
-#####Glossary
+##### Glossary
 1. Overview of the software
   * What each file does
   * How long did this take us?

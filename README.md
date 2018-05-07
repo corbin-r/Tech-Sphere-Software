@@ -1,6 +1,7 @@
 The Tech Sphere Software
 ==================
-This is the proprietary software The Tech Sphere has built and uses.
+##### Keeping this for archival purposes, this code is no longer used.
+This is the open source software The Tech Sphere has built and uses.
 
 ##### Glossary
 1. Overview of the software
@@ -14,4 +15,3 @@ This is the proprietary software The Tech Sphere has built and uses.
   * MySQL connection
   * Cookie calls
   * Updating the user table
-
